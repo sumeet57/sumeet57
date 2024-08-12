@@ -1,4 +1,4 @@
-# Hey there! I'm [Your Name] 👋
+# Hey there! I'm Sumeet 👋
 
 I'm a **Frontend Magician** 🪄 with a knack for turning designs into interactive, pixel-perfect websites. Currently, I'm on an adventure into the backend world, mastering Django to become a full-stack wizard 🧙‍♂️. I love blending creativity with code to craft amazing digital experiences.
 
@@ -21,23 +21,16 @@ I'm a **Frontend Magician** 🪄 with a knack for turning designs into interacti
 - **Backend Quest:** Mastering Django and RESTful APIs 🏗️.
 - **Algorithmic Challenge:** Tackling complex DSA problems and honing my coding skills 🧩.
 
-## 🎨 My Creations
+## 🎨 My Best Creations
 - **Resume Builder** 📝: A sleek tool to help users craft professional resumes.
-- **Collaborative IDE** 🛠️: Real-time code sharing and collaboration, made easy.
 - **Real-Time Bingo** 🎲: A fun, multiplayer Bingo game built with React and Socket.io.
-- **Testimonial Widget** 💬: A customizable testimonial service that you can embed on any website.
-
-### 🏅 Hackathon Achievements
-- **2x Hackathon Champion** 🏆: Awarded for creativity, innovation, and technical prowess.
 
 ### 🎨 Freelance Triumphs
-- Delivered **3 Stunning Frontend Projects** for clients, focusing on responsive design and user experience.
+- Delivered **2 Stunning Frontend Projects** for clients, focusing on responsive design and user experience.
 
 ## 🎯 Future Quests
 - **Full-Stack Mastery:** Conquer the MERN stack and expand my tech arsenal 🔥.
 - **DSA Excellence:** Deep dive into algorithms and prepare for coding competitions 🥇.
 
 ## 🔗 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile] 🔗
-- **Twitter:** [Your Twitter Profile] 🐦
-- **Email:** [Your Email Address] 📧
+- **LinkedIn:** https://linkedin.com/in/sumeet-umbalkar 🔗
