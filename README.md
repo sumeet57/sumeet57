@@ -24,6 +24,7 @@ I'm a **Frontend Magician** 🪄 with a knack for turning designs into interacti
 ## 🎨 My Best Creations
 - **Resume Builder** 📝: A sleek tool to help users craft professional resumes.
 - **Real-Time Bingo** 🎲: A fun, multiplayer Bingo game built with React and Socket.io.
+- **Starbucks-ReDesign** 🧑‍💻: Re-touch the Starbucks website with On-Scroll Animation.
 
 ### 🎨 Freelance Triumphs
 - Delivered **2 Stunning Frontend Projects** for clients, focusing on responsive design and user experience.
