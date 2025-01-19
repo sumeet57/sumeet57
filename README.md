@@ -1,6 +1,6 @@
 # Hey there! I'm Sumeet 👋
 
-I'm a **Frontend Developer** with a passion for transforming designs into interactive, pixel-perfect websites. Currently expanding my skill set into backend development, I'm diving into Django to become a well-rounded full-stack developer. I thrive on blending creativity with code to create seamless digital experiences.
+I'm a **Frontend Developer** with a passion for transforming designs into interactive, pixel-perfect websites. Currently expanding my skill set into backend development, I'm diving into MERN to become a well-rounded full-stack developer. I thrive on blending creativity with code to create seamless digital experiences.
 
 ## 🛠️ Technical Skills
 
@@ -9,22 +9,21 @@ I'm a **Frontend Developer** with a passion for transforming designs into intera
 - **Frameworks & Tools:** React, Tailwind CSS, Locomotive, GSAP, ScrollTrigger
 
 ### Backend Development
-- **Languages:** Python, C/C++
-- **Frameworks:** Django, Django REST Framework
-- **Databases:** SQL, PostgreSQL
+- **Languages:** Javascript, C/C++
+- **Frameworks:** Node.js, Express
+- **Databases:** Mongodb
 
 ### Additional Skills
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
 - **Tools:** Git, GitHub, VS Code
 
 ## 🌱 Current Focus
-- **Backend Development:** Mastering Django and RESTful APIs.
+- **Backend Development:** Mastering MERNstack.
 - **Algorithms & Problem Solving:** Enhancing skills in DSA to tackle complex challenges.
 
 ## 🎨 Featured Projects
 - **Resume Builder:** A sleek tool to help users craft professional resumes.
-- **Real-Time Bingo:** A fun, multiplayer Bingo game built with React and Socket.io.
-- **Starbucks Redesign:** A modern revamp of the Starbucks website with engaging scroll animations.
+- **Real-Time Tambola:** A fun, multiplayer Bingo game built with React and Socket.io.
 
 ### Freelance Projects
 - Successfully delivered multiple frontend projects focused on responsive design and user experience.
