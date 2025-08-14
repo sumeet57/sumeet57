@@ -22,13 +22,9 @@ OOP • DSA • Git & GitHub • VS Code • Mutex/Lock Systems • Real-time Ev
 
 ## 🌟 Highlight Projects
 
-🎯 **[Real-Time Tambola Game](#)**  
+🎯 **[Real-Time Tambola Game](https://github.com/sumeet57/Tambola)**  
 Multiplayer Bingo game with role-based rooms, real-time draws, reconnection support, and WhatsApp invite sharing.  
 Tech: React, Tailwind CSS, Socket.io, Node.js, MongoDB  
-
-🖥️ **Web-Based Operating System**  
-Browser-based OS simulation with real-time interactions and modular UI.  
-Tech: MERN Stack, WebSocket  
 
 ---
 
