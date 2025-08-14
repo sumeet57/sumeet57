@@ -1,36 +1,54 @@
-# Hey there! I'm Sumeet 👋
+# 👋 Hey, I'm Sumeet Umbalkar  
 
-I'm a **FullStack Developer** with a passion for transforming designs into interactive, pixel-perfect websites. Currently expanding my skill set into backend development, I'm diving into Scalablity concepts to become a well-rounded full-stack developer. I thrive on blending creativity with code to create seamless digital experiences.
+🚀 **Full Stack Developer** | 🖌️ UI/UX-Driven Coder | ⚡ Real-Time Web Enthusiast  
 
-## 🛠️ Technical Skills
+I build **fast, scalable, and interactive** web applications — turning ideas into smooth, pixel-perfect digital experiences.  
+Currently leveling up in **scalability, backend systems, and real-time architectures** to become a complete full-stack powerhouse.  
 
-### 💻 Frontend
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Libraries & Tools:** React.js, Tailwind CSS, GSAP, ScrollTrigger, Locomotive Scroll
+---
 
-### 🛠️ Backend
-- **Languages:** JavaScript, C/C++
-- **Frameworks:** Node.js, Express.js
-- **Database:** MongoDB
+## 🛠️ Tech Arsenal
 
-### 🧩 Additional Skills
-- **CS Concepts:** OOP, DSA
-- **Tools & Platforms:** Git, GitHub, VS Code, WebSocket
+**💻 Frontend:**  
+React.js • Tailwind CSS • GSAP • ScrollTrigger • Locomotive Scroll • JavaScript (ES6+) • HTML5 • CSS3  
 
-## 🌱 Current Focus
-- **Backend Development:** Mastering MERNstack.
-- **Algorithms & Problem Solving:** Enhancing skills in DSA to tackle complex challenges.
+**🛠️ Backend:**  
+Node.js • Express.js • MongoDB • WebSocket • REST APIs  
 
-## 🎨 Featured Projects
-- **Real-Time Tambola:** A fun, multiplayer Bingo game built with React and Socket.io.
-- **Web-Based Operating System** using MERN with real-time interaction (WebSocket).
+**⚙️ Additional:**  
+OOP • DSA • Git & GitHub • VS Code • Mutex/Lock Systems • Real-time Event Handling  
 
-### Freelance Projects
-- Successfully delivered multiple frontend and fullstack projects focused on functionality and user experience.
+---
 
-## 🎯 Future Goals
-- **Full-Stack Mastery:** Continue to develop skills in the MERN stack.
-- **DSA Excellence:** Deep dive into algorithms and prepare for coding competitions.
+## 🌟 Highlight Projects
 
-## 🔗 Let's Connect!
-- **LinkedIn:** [Sumeet Umbalkar](https://linkedin.com/in/sumeet-umbalkar)
+🎯 **[Real-Time Tambola Game](#)**  
+Multiplayer Bingo game with role-based rooms, real-time draws, reconnection support, and WhatsApp invite sharing.  
+Tech: React, Tailwind CSS, Socket.io, Node.js, MongoDB  
+
+🖥️ **Web-Based Operating System**  
+Browser-based OS simulation with real-time interactions and modular UI.  
+Tech: MERN Stack, WebSocket  
+
+---
+
+## 📌 Current Focus  
+- Building **scalable backend systems** with Node.js & MongoDB  
+- Mastering **real-time apps** with WebSocket & Socket.io  
+- Sharpening **DSA skills** for complex problem-solving  
+
+---
+
+## 🎯 Future Goals  
+- Full MERN stack mastery with microservices & scalability patterns  
+- Advanced UI animations with GSAP & 3D effects  
+- Explore cloud deployment strategies for high-traffic apps  
+
+---
+
+## 🤝 Let's Connect!  
+💼 **LinkedIn:** [Sumeet Umbalkar](https://linkedin.com/in/sumeet-umbalkar)  
+📧 **Email:** sumeetumbalkar@gmail.com  
+
+---
+💡 _"Code is like art — it’s not just about making it work, it’s about making it beautiful."_  
