@@ -5,6 +5,8 @@
 I build **fast, scalable, and interactive** web applications — turning ideas into smooth, pixel-perfect digital experiences.  
 Currently leveling up in **scalability, backend systems, and real-time architectures** to become a complete full-stack powerhouse.  
 
+- 👨‍💻 Portfolio : **[https://sumeet.live](https://sumeet.live)**
+- 🏪 Marketplace / Shop : **[https://shop.sumeet.live](https://shop.sumeet.live)**
 ---
 
 ## 🌐 Socials:
