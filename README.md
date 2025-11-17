@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sumeet Umbalkar  
+# 👋 Hey, I'm Sumeet  
 
 🚀 **Full Stack Developer** 
 
