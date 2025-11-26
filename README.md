@@ -22,9 +22,6 @@ Currently leveling up in **scalability, backend systems, and real-time architect
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumeet57&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sumeet57&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sumeet57&icon=1&color=0)](https://visitcount.itsvg.in)
 
