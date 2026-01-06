@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Sumeet  
 
-<p align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=sumeet57&label=Profile%20Views%20🚀&labelColor=%2324292e&countColor=%2338B2AC&style=flat-square" />
-</p>
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=sumeet57&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%2338B2AC&style=flat-square)
 
 🚀 **Full Stack Developer** I build **fast, scalable, and interactive** web applications — turning ideas into smooth, pixel-perfect digital experiences.  
 Currently leveling up in **scalability, backend systems, and real-time architectures** to become a complete full-stack powerhouse.  
