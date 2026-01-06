@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Sumeet  
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sumeet57&label=PROFILE%20VIEW &color=38B2AC&style=flat-square" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=sumeet57&label=Profile%20Views%20🚀&labelColor=%2324292e&countColor=%2338B2AC&style=flat-square" />
 </p>
 
 🚀 **Full Stack Developer** I build **fast, scalable, and interactive** web applications — turning ideas into smooth, pixel-perfect digital experiences.  
