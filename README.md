@@ -6,9 +6,9 @@
 I build **fast, scalable, and interactive** web applications — turning ideas into smooth, pixel-perfect digital experiences.  
 Currently leveling up in **scalability, backend systems, and real-time architectures**.  
 
-- 👨‍💻 Portfolio : **[https://sumeet.app](https://sumeet.live)**
+- 👨‍💻 Portfolio : **[https://sumeet.app](https://sumeet.app)**
+- 🏪 Marketplace / shop : **[https://shop.sumeet.live](https://shop.sumeet.live)**
 - 🚧 Active Project : **[LiWebJS](https://github.com/sumeet57/liwebjs)** — High-performance Realtime Framework
-- 📈 Status : **In Development** 🏗️
 - 🤝 Contact : **contact@sumeet.app**
 
 ---
