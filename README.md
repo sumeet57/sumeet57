@@ -1,28 +1,64 @@
-# 👋 Hey, I'm Sumeet  
+# 👋 Hey, I'm Sumeet Umbalkar
 
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=sumeet57&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%2338B2AC&style=flat-square)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=sumeet57\&label=PROFILE%20VIEWS\&labelColor=%23000000\&countColor=%23F97316\&style=flat-square)
 
-🚀 **Full Stack Developer** | Building **LiWebJS** 🛠️  
-I build **fast, scalable, and interactive** web applications — turning ideas into smooth, pixel-perfect digital experiences.  
-Currently leveling up in **scalability, backend systems, and real-time architectures**.  
+### Full Stack Developer • Backend Engineer • SaaS Builder
 
-- 👨‍💻 Portfolio : **[https://sumeet.app](https://sumeet.app)**
-- 🏪 Marketplace / shop : **[https://shop.sumeet.live](https://shop.sumeet.live)**
-- 🚧 Active Project : **[LiWebJS](https://github.com/sumeet57/liwebjs)** — High-performance Realtime Framework
-- 🤝 Contact : **contact@sumeet.app**
+I build scalable web applications, realtime systems, and developer tools.
+
+Currently focused on:
+
+* ⚡ High-performance backend architectures
+* 🔄 Realtime communication systems
+* 📈 Scalability & distributed systems
+* 🚀 Building **LiWebJS**, a modern alternative to Socket.io
+
+Over the last few years, I've worked on everything from multiplayer applications and SaaS products to automation systems, custom business websites, robotics projects, and developer tooling.
 
 ---
 
-## 🛠️ Featured Project: LiWebJS (WIP)
-![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge)
+## 🌐 Links
 
-**LiWebJS** is a modern, ultra-lightweight realtime communication framework designed to be a faster, modular alternative to Socket.io.
+* 🌍 Portfolio → https://sumeet.app
+* 🛒 Marketplace → https://shop.sumeet.app
+* 📧 Contact → [contact@sumeet.app](mailto:contact@sumeet.app)
+* 💼 LinkedIn → https://linkedin.com/in/sumeet-umbalkar
 
-**What I'm currently implementing:**
-- 🚀 **Zero-Dependency Core:** Architecting for maximum speed and minimal bundle size.
-- 📡 **Adaptive Transports:** Building native WebSocket support with intelligent polling fallbacks.
-- 🔄 **Reactive State-Sync:** Developing a system to sync room state automatically across clients.
-- 🧩 **Modular Adapters:** Creating pluggable support for Redis, JWT Auth, and Binary serialization.
+---
+
+# 🚀 Current Project — LiWebJS
+
+![Status](https://img.shields.io/badge/STATUS-IN%20ACTIVE%20DEVELOPMENT-orange?style=for-the-badge)
+
+**LiWebJS** is an open-source realtime communication framework designed for developers who need performance, scalability, and flexibility.
+
+### Vision
+
+Build a framework capable of handling modern realtime applications without the complexity and overhead commonly associated with existing solutions.
+
+### Core Features
+
+* ⚡ Lightweight architecture
+* 🔌 Native WebSocket transport
+* 🔄 Intelligent fallback mechanisms
+* 🏠 Room & namespace management
+* 🔐 Authentication middleware
+* 📡 Event-based communication
+* 🧩 Pluggable adapter system
+* 📦 Redis integration
+* 🚀 Horizontal scaling support
+* 🔄 Automatic state synchronization
+
+### Long-Term Goals
+
+* Distributed cluster support
+* Multi-region deployments
+* Event streaming integrations
+* High-performance binary protocols
+* Production-grade observability tools
+
+Repository:
+https://github.com/sumeet57/liwebjs
 
 ---
 
